@@ -7,7 +7,7 @@ import Searchbar from './components/search_bar'
 
 import reducers from './reducers';
 
-const youtubeApi= 'AIzaSyBMQ4UCBb8lRJVjjvRpKlEM3LBJqHdwi-Q'
+
 
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 
